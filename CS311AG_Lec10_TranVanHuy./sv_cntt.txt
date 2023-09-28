@@ -1,0 +1,7 @@
+1,Bao Cong , true , Khai Phong , 8.9 , 9.2 ,7
+2,Cong Ton Sach , true , Khai Phong Phu , 9.2 , 6 ,4 
+3,Hoang Thuong,  True , Hoang CUng ,  4.5 , 7.3 ,3,8
+4, Ly Nuong Nuong  , false , Hau Cung , 5.6 ,6.5 , 2.4
+5, Trien Chieu , true , Nghe An , 8,9 ,9.2 ,7.9
+6, Hoang Hau , false , Hau Cung , 9.5 ,9 , 8,6 
+7, Hoang Trieu , true , Nghe An , 8.2 , 7.4 , 3.9
