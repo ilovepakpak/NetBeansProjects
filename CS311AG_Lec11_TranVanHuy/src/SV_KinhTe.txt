@@ -1,0 +1,7 @@
+KT001 , Bao Cong, true , 8.9,9.2
+KT002 , Cong Tong Sach, true ,2.2,6
+KT003 , Hoang Thuong, true ,4.5,7.3
+KT004 , Ly Nuong Nuong, false , 3.6 , 6.5
+KT005 ,Trien Chieu, true ,8.9 , 9.2
+KT006 , Hoang Hau, false , 5.5 , 9
+KT007 , Vuong Trieu, true , 4.2 , 7.4
