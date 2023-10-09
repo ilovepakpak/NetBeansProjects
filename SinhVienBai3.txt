@@ -1,0 +1,7 @@
+sv001, Bao Cong , true , 1/1/2000, Da Nang, baocong@gmail.com, 8.9
+sv002, Cong Tong Sach, true, 12/12/2001, Nghe An, congtongsach@yahoo.com, 9.2
+sv003, Hoang Thuong, true, 10/10/2004, Quang Nam, hoangthuong@dtu.edu.com, 4.5
+sv004, Ly Nuong Nuong, false, 11/11/2003, Hue, lynnuongnuong@gigfoot.com, 5.6
+sv005, Trien Chieu, false, 5/5/2002, Nghe An , trienchieu@gmail.com, 8.9
+sv006, Hoang Hau, false 21/2/2002, Hue, hoanghau123@gmail.com, 9.5
+sv007, Vuong Trieu, true, 11/2/2001, Nghe An, vuongtrieu@yahoo.com, 8.2
